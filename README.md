@@ -17,5 +17,6 @@ A ideia desse projeto é implementar novos módulos, transformando esse script e
 Para executar esse script siga os passos:
 
 > Baixe o repositório com:  git clone https://github.com/rafaelharzer/hackscript <br>
-> entre no diretoro com: cd hackscript <br>
+> entre no diretório com: cd hackscript <br>
+> permissão de execução com: chmod +x hackscript.sh <br>
 > execute com: ./hackscript.sh
